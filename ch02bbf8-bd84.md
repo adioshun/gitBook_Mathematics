@@ -85,7 +85,11 @@ $$y=\ln{(ax+b)} \rightarrow y\prime = \frac{1}{(ax+b)}\times a$$
 
 [참고] [미분 정리](https://ko.m.wikiversity.org/wiki/%ED%8F%AC%ED%84%B8:%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90/%EC%88%98%ED%95%99/%EC%88%98%ED%95%99_II/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8_%EB%AF%B8%EB%B6%84_%EA%B3%B5%EC%8B%9D#/editor/2)
 
+
 ## 4. 미분의 적용
+
+![](http://i.imgur.com/quvVJHM.png)
+
 
 ### 4.1 지수 함수의 미분
 > 출처 : [지수 로그 함수의 미분 로피탈 공식](https://youtu.be/si6ckKuXNBo)
