@@ -184,6 +184,11 @@ $$
 $$
 
 
+### 4.5 삼각함수
+
+> [미적분2 삼각함수 개념강의 초간단정리 사인법칙 코사인법칙](https://www.youtube.com/watch?v=A8S_ZAuWFjA)
+
+
 ##### [정리] 자주 쓰이는 벡터 미분
 
 ![](http://i.imgur.com/HlzCWHP.png)

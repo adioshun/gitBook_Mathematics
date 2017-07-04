@@ -4,7 +4,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 
 
-참고 : [온라인 그래프 툴](https://www.desmos.com)
+참고 : [온라인 그래프 툴](https://www.desmos.com), [Desmos이용 미적분 그래프 총정리](https://www.youtube.com/watch?v=oshU7fiO4tM)
 
 - [winner블로그](http://j1w2k3.tistory.com/629)
 
