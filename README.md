@@ -12,6 +12,8 @@ This file file serves as your book's preface, a great place to describe your boo
 
 - [수학중독 블로그](http://mathjk.tistory.com/1922)
 
+- [공돌이의 수학정리 노트](https://wikidocs.net/6957)
+
 [개념수업 미분이란무엇인가](https://www.youtube.com/watch?v=2JvfRLgcmUI)
 
 ![](http://i.imgur.com/qL2b0AA.png?1)
