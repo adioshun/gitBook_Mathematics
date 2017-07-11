@@ -123,16 +123,16 @@ $$y=e^{x^2+x} \Rightarrow y\prime = e^{x^2+x} \cdot (2x+1) \cdot \ln e $$
 ### 4.2 로그 함수의 미분 
 
 #### A. 지수로그($$y = \log_a x$$) 함수의 미분
-로그 이후의 값으로 1/n을 만들고, 로그 밑 값으로 ln a만듬
+로그 이후의 값으로 1/n을 만들고, 로그 밑 값으로 ln a만듬, 미분값 연결 
 
 
 $$
 
-y = \log_a x \Rightarrow y\prime = \frac{1}{(x)\ln(a)}
+y = \log_a x \Rightarrow y\prime = \frac{1}{(x)\ln(a)} x\prime
 
 $$
 
-- $$ y = \log_a (x^2+x) \Rightarrow y\prime = \frac{1}{(x^2+x)\cdot \ln (a)} $$
+- $$ y = \log_a (x^2+x) \Rightarrow y\prime = \frac{1}{(x^2+x)\cdot \ln (a)}(2x+1) $$
 
 
 
@@ -142,15 +142,14 @@ $$
 y = \ln(f(x)) \Rightarrow \frac{1}{f(x)}f\prime(x)
 $$
 
-> $$\ln$$=자연 로그= 실수(e)를 밑으로 하는 로그(log)
 
 - $$y = \ln x = \log_e x \Rightarrow y\prime = \frac{1}{x (\ln e) } = \frac{1}{x}$$ ($$\because \ln e $$=1이어서 생략)
 
 
 
-- $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x(\ln e)}= \frac{1}{x^2+2x}$$
+- $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x(\ln e)}= \frac{1}{x^2+2x}(2x+1)$$
 
-$$y = \ln(f(x)) \Rightarrow \frac{1}{f(x)}f\prime(x) $$
+
 
 
 
