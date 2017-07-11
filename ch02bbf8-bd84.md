@@ -68,11 +68,6 @@ $$(\frac{x}{y})\prime = \frac{x\prime y + y\prime x}{y^2}$$
 
 $$y = \frac{1}{x} = x^{-1} \rightarrow y\prime = -x^{-2}$$
 
-### 3.3 지수함수, 자연로그
-
-$$y= e^x \rightarrow y\prime = e^x$$ (변화 없음)
-$$y=\ln x \rightarrow y\prime = \frac{1}{x}$$
-$$y=\ln{(ax+b)} \rightarrow y\prime = \frac{1}{(ax+b)}\times a$$
 
 
 ## 4. 미분의 적용
@@ -145,6 +140,8 @@ $$
 
 - $$y = \ln x = \log_e x \Rightarrow y\prime = \frac{1}{x (\ln e) } = \frac{1}{x}$$ ($$\because \ln e $$=1이어서 생략)
 
+- $$y=\ln{(ax+b)} \rightarrow y\prime = \frac{1}{(ax+b)}\times a$$
+
 
 
 - $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x(\ln e)}= \frac{1}{x^2+2x}(2x+1)$$
@@ -155,6 +152,18 @@ $$
 
 > $$\ln$$=자연 로그= 실수(e)를 밑으로 하는 로그(log)
 
+
+
+###### [참고] $$y= x^x$$의 미분은??
+
+1. 양변에 ln : $$\ln y = \ln (x^X) \rightarrow \ln y = x\ln x  $$
+
+2. 미분 : $$\frac{1}{y}y\prime = 1\cdot \ln x + x \cdot \frac{1}{x} (\because 뒤 식은
+ 미분의 곱 성질)$$ 
+
+3. $$y\prime$$기준으로 식 정리 : $$y\prime = y(1\cdot \ln x + x \cdot \frac{1}{x})$$
+
+4. $$y= x^x$$의 y를 식에 대입 : $$y\prime = x^x(1\cdot \ln x + x \cdot \frac{1}{x})$$
 
 
 ###### [참고] 로피탈 공식 ($$\frac{0}{0}, \frac{\infty}{\infty}$$)
