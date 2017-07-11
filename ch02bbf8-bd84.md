@@ -52,15 +52,7 @@
 - $$\frac{dy}{dx}$$: (dx에 대해) y를 미분 하라.
 - y에 대한 식이다. eg. $$y = x^3 + 2x^2$$
 
-계산법
 
-|![](http://i.imgur.com/ruN0L8U.png)|![](http://i.imgur.com/pgiXrEh.png)|
-|-|-|
-|![](http://i.imgur.com/KQZOn04.png)|![](http://i.imgur.com/rnHPMzf.png)|
-
-지수의 숫자를 앞으로 내리고 지수에서 그 대가로 1을 뺀다. 상수는 0이 된다.
-
-> 출처 : [waylight3](http://waylight3.blog.me/220221644620)
 
 ### 3.1 곱의 미분 법칙
 곱의 미분 = 한쪽만 미분한 것들의 합
@@ -83,51 +75,82 @@ $$y=\ln x \rightarrow y\prime = \frac{1}{x}$$
 $$y=\ln{(ax+b)} \rightarrow y\prime = \frac{1}{(ax+b)}\times a$$
 
 
-[참고] [미분 정리](https://ko.m.wikiversity.org/wiki/%ED%8F%AC%ED%84%B8:%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90/%EC%88%98%ED%95%99/%EC%88%98%ED%95%99_II/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8_%EB%AF%B8%EB%B6%84_%EA%B3%B5%EC%8B%9D#/editor/2)
-
-
 ## 4. 미분의 적용
 
 ![](http://i.imgur.com/quvVJHM.png)
 
 
-### 4.1 지수 함수의 미분
+||지수함수|다항함수|
+|-|-|-|
+|원식|$$y=a^x$$|$$y=x^n$$|
+|정의|a가 상수<br>$$y=a^x$$인 함수 단, $$a \neq 1$$|n이 상수|
+|미분|$$y\prime=a^x \ln a$$|$$y\prime = n x^{n-1}$$|
+
 > 출처 : [지수 로그 함수의 미분 로피탈 공식](https://youtu.be/si6ckKuXNBo)
 
 
+### 4.1 지수 함수의 미분
 
-미분 = 원식 * 미분식 * ln a
+
+미분 = 원식 $$\times$$ 미분식 $$\times$$ $$\ln a$$
 
 $$y = a^{x{^2}+2x+3} \Rightarrow y\prime = a^{x{^2}+2x+3} \cdot (2x+2)\cdot \ln a$$
 
+> 지수 함수의 역함수 : $$y=a^x \rightarrow y=\log_ax$$
 
+#### A. 밑이 e인 지수 함수 ($$y=e^x$$)
 
-### 4.2 지수 로그 함수의 미분
+$$y=e^x \Rightarrow y\prime = e^x \cdot \ln e \Rightarrow e^x $$ ($$\because \ln e $$=1이어서 생략)
 
-미분 = 원식 * 미분식 * ln a
+> 미분을 했어도 값이 줄지 않음
 
-$$y=e^x \Rightarrow y\prime = e^x$$
-
-$$y=e^{x^2+x} \Rightarrow y\prime = e^{x^2+x} \cdot (2x+1) $$
-
-> 미분을 했어도 값이 줄지 않음, $$\ln$$=1이어서 생략
-
-### 4.3 로그 함수의 미분
-
-$$ y = \log_a x \Rightarrow y\prime = \frac{1}{(x)\ln(a)}$$
-
-- 로그 이후의 값으로 1/n을 만들고, 로그 밑 값으로 ln a만듬
-
-$$ y = \log_a (x^2+x) \Rightarrow y\prime = \frac{1}{(x^2+x)\cdot \ln (a)} $$
+$$y=e^{x^2+x} \Rightarrow y\prime = e^{x^2+x} \cdot (2x+1) \cdot \ln e $$
 
 
 
-$$y = \ln x = \log_e x \Rightarrow y\prime = \frac{1}{x (\ln e) } = \frac{1}{x}$$
-$$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x}$$
+### 4.2 다항 함수의 미분 
 
-> ln은 쓰지 않음
+|![](http://i.imgur.com/ruN0L8U.png)|![](http://i.imgur.com/pgiXrEh.png)|
+|-|-|
+|![](http://i.imgur.com/KQZOn04.png)|![](http://i.imgur.com/rnHPMzf.png)|
 
-### 4.3 자연로그($$\log_e{x}$$) 함수의 미분
+지수의 숫자를 앞으로 내리고 지수에서 그 대가로 1을 뺀다. 상수는 0이 된다.
+
+> 출처 : [waylight3](http://waylight3.blog.me/220221644620)
+
+
+
+### 4.2 로그 함수의 미분 
+
+#### A. 지수로그($$y = \log_a x$$) 함수의 미분
+로그 이후의 값으로 1/n을 만들고, 로그 밑 값으로 ln a만듬
+
+
+$$
+
+y = \log_a x \Rightarrow y\prime = \frac{1}{(x)\ln(a)}
+
+$$
+
+- $$ y = \log_a (x^2+x) \Rightarrow y\prime = \frac{1}{(x^2+x)\cdot \ln (a)} $$
+
+
+
+#### B. 자연로그($$\ln x = \log_e{x}$$) 함수의 미분
+
+$$
+y = \ln(f(x)) \Rightarrow \frac{1}{f(x)}f\prime(x)
+$$
+
+> $$\ln$$=자연 로그= 실수(e)를 밑으로 하는 로그(log)
+
+- $$y = \ln x = \log_e x \Rightarrow y\prime = \frac{1}{x (\ln e) } = \frac{1}{x}$$ ($$\because \ln e $$=1이어서 생략)
+
+
+
+- $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x(\ln e)}= \frac{1}{x^2+2x}$$
+
+$$y = \ln(f(x)) \Rightarrow \frac{1}{f(x)}f\prime(x) $$
 
 
 
@@ -137,7 +160,8 @@ $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x}$$
 
 
 
-### 4.4 벡터 미분
+
+### 4.3 벡터 미분
 
 > 참고 : 머신러닝에서 딥러닝까지 별첨A.1, [다크 프로그래머](http://darkpgmr.tistory.com/141), [[추천]데이어트사이언스 스쿨](https://datascienceschool.net/view-notebook/8595892721714eb68be24727b5323778/), [영문교과서](http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 
@@ -185,6 +209,9 @@ $$
 [증명보기](http://blog.naver.com/enewltlr/220918689039)
 
 
+# 적분
+
+KL 은 적분으로 표현이 가능한데, 그 적분이 P 와 Q 라는 conditional density 의 변수에 대해 취해진다는 뜻으로 점을 찍은겁니다. 예를 들어 E[ f(y|x) ] 같은 기대값에서 y 에 대해 적분이 이루어지면 E[ f( . | x) ] 으로 표기합니다.
 
 
 
