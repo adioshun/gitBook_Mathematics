@@ -101,7 +101,7 @@ $$y=e^x \Rightarrow y\prime = e^x \cdot \ln e \Rightarrow e^x $$ ($$\because \ln
 
 $$y=e^{x^2+x} \Rightarrow y\prime = e^{x^2+x} \cdot (2x+1) \cdot \ln e $$
 
-
+![](http://i.imgur.com/L4LE7RQ.png)
 
 ### 4.2 다항 함수의 미분 
 
@@ -144,7 +144,7 @@ $$
 
 
 
-- $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x(\ln e)}= \frac{1}{x^2+2x}(2x+1)$$
+- $$y = \ln (x^2+2x) \Rightarrow y\prime = \frac{1}{x^2+2x}(2x+1)= \frac{1}{x^2+2x}(2x+1)$$
 
 
 
@@ -168,6 +168,8 @@ $$
 
 ###### [참고] 로피탈 공식 ($$\frac{0}{0}, \frac{\infty}{\infty}$$)
 
+
+![](http://i.imgur.com/eUW1P3P.png)
 
 ### 4.3 벡터 미분
 
