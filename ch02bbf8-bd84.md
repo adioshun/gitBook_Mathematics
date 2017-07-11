@@ -1,5 +1,5 @@
 
-# 개념수업 미분이란무엇인가
+# 미분
 > 출처 : [개념수업 미분이란무엇인가](https://www.youtube.com/watch?v=2JvfRLgcmUI)
 
 
@@ -89,7 +89,16 @@ $$y = \frac{1}{x} = x^{-1} \rightarrow y\prime = -x^{-2}$$
 
 미분 = 원식 $$\times$$ 미분식 $$\times$$ $$\ln a$$
 
-$$y = a^{x{^2}+2x+3} \Rightarrow y\prime = a^{x{^2}+2x+3} \cdot (2x+2)\cdot \ln a$$
+- $$\frac{d}{dx}e^{ax} = ae^{ax}$$
+
+- $$\frac{d}{dx}a^{x} = a^{x} \ln a$$
+
+- $$\frac{d}{dx}x^{x} = (1+\ln x)x^x$$
+
+
+
+
+- $$y = a^{x{^2}+2x+3} \Rightarrow y\prime = a^{x{^2}+2x+3} \cdot (2x+2)\cdot \ln a$$
 
 > 지수 함수의 역함수 : $$y=a^x \rightarrow y=\log_ax$$
 
@@ -123,7 +132,7 @@ $$y=e^{x^2+x} \Rightarrow y\prime = e^{x^2+x} \cdot (2x+1) \cdot \ln e $$
 
 $$
 
-y = \log_a x \Rightarrow y\prime = \frac{1}{(x)\ln(a)} x\prime
+y = \log_a x \Rightarrow y\prime = \frac{1}{(x)\ln(a)} 
 
 $$
 
@@ -207,16 +216,25 @@ $$
 \end{bmatrix}
 $$
 
+###### [예제] a,b는 p x 1 벡터, A는 p x p 상수행렬 
 
-### 4.5 삼각함수
+- $$\frac{\partial}{\partial b}a^tb = a$$
 
-> [미적분2 삼각함수 개념강의 초간단정리 사인법칙 코사인법칙](https://www.youtube.com/watch?v=A8S_ZAuWFjA)
+- $$\frac{\partial}{\partial a}a^tb = b$$
+
+- $$\frac{\partial}{\partial a}b^tAb = (A+A^T)b$$
+
+
+
 
 
 ##### [정리] 자주 쓰이는 벡터 미분
 
 ![](http://i.imgur.com/HlzCWHP.png)
 [증명보기](http://blog.naver.com/enewltlr/220918689039)
+### 4.5 삼각함수
+
+> [미적분2 삼각함수 개념강의 초간단정리 사인법칙 코사인법칙](https://www.youtube.com/watch?v=A8S_ZAuWFjA)
 
 
 # 적분
