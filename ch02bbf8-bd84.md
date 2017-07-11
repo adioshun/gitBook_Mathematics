@@ -158,7 +158,7 @@ $$y = \ln(f(x)) \Rightarrow \frac{1}{f(x)}f\prime(x) $$
 
 
 
-
+###### [참고] 로피탈 공식 ($$\frac{0}{0}, \frac{\infty}{\infty}$$)
 
 
 ### 4.3 벡터 미분
