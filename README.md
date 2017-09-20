@@ -3,6 +3,8 @@
 
 ---
 
+- 140 Machine Learning Formulas: [원문](http://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas?utm_content=buffer67980&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer), [다운로드(pdf_17page)](https://drive.google.com/file/d/0B0RLknmL54khQlhGUzFUWEtncTA/view), [Github](https://github.com/RubensZimbres)
+---
 [개념수업 미분이란무엇인가](https://www.youtube.com/watch?v=2JvfRLgcmUI)
 
 ![](http://i.imgur.com/qL2b0AA.png?1)
