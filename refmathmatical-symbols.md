@@ -36,3 +36,7 @@ https://reference.wolfram.com/language/guide/MathematicalNotationCharacters.html
 
 ## 통계학 
 $$\sim $$ : $$\sim $$ 좌측에 있는 확률 변수가 $$\sim $$우측에 있는 확률 분포를 따름
+
+---
+![](https://i.imgur.com/OpGOZCg.png)
+[DeepLearning Notation](http://www.deeplearningbook.org/contents/notation.html)
