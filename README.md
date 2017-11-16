@@ -27,6 +27,8 @@
 
 ## 3. Tutorial (Series, )
 
+- [공업수학](http://pinkwink.kr/793#gongsu) : 약 20강의 
+
 ## 4. Youtube 
 
 - [Mathematics of Deep Learning](http://www.vision.jhu.edu/tutorials/CVPR17-Tutorial-Math-Deep-Learning.htm) : CVPR 2017, [Part 1](https://www.youtube.com/watch?v=Mdp9uC3gXUU&t=2128s), [Part 2](https://www.youtube.com/watch?v=xdA-uhJ6T3U&t=2024s)
