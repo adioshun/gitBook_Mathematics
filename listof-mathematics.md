@@ -29,11 +29,12 @@
 - [공업수학](http://pinkwink.kr/793#gongsu) : 약 20강의 
 
 
-
 ## 4. Youtube 
 
 - [Mathematics of Deep Learning](http://www.vision.jhu.edu/tutorials/CVPR17-Tutorial-Math-Deep-Learning.htm) : CVPR 2017, [Part 1](https://www.youtube.com/watch?v=Mdp9uC3gXUU&t=2128s), [Part 2](https://www.youtube.com/watch?v=xdA-uhJ6T3U&t=2024s)
 - 벡터미적분학 13화. 다변수벡터함수의 다이버전스,커얼 : [1강](https://www.youtube.com/watch?v=jLWjtWWb0I8), [2강](https://www.youtube.com/watch?v=fvtjqkf4Wl4&feature=push-u&attr_tag=_9_gWW3ThBZSGlki-6)
+
+- [데코](https://www.youtube.com/channel/UCfrr-1XiyqQTh-r3CI2VP2A) : 선형대수학(2), 미적분(18), 집합론(39)
 
 ## 6.  Material (Pdf, ppt)
 
