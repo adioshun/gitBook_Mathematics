@@ -9,4 +9,5 @@
 * [Tip\_Trick\_식 이해하기 ](tiptrick-c2dd-c774-d574-d558-ae30.md)
 * [ref\_Mathmatical\_symbols](refmathmatical-symbols.md)
 * [Markov\_Chain](markovchain.md)
+* [KMOOC\_알고보면 쉬운 미적분이론](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860.md)
 
