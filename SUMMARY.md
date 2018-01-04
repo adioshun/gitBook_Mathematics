@@ -9,15 +9,11 @@
 
 ## 확률 통계
 
-- [확률통계 기초](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
-* [Bayes 정리](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/bayes-c815-b9ac.md)
-* [우도](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/c6b0-b3c4.md)
-* [확률분포](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/확률분포.md)
-* [확률 밀도 함수 추정](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/d655-b960-bc00-b3c4-d568-c218-cd94-c815.md)
+- [Gitbook](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
 
 ## 선형 대수
 
-* [Linear Algebra](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
+* [Gitbook](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
 * [ch00\_벡터](ch00bca1-d130.md)
 * [ch03\_기하와 벡터](ch03ae30-d558-d559.md)
 * \_벡터와 행렬 연산 
