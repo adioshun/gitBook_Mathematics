@@ -7,37 +7,30 @@
 
 * [ch01\_지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
 
-
-
 ## 확률 통계
 
-> GitBook - 확률통계 / 패턴 학습과 통계 부분에서 정리 
-
+- [확률통계 기초](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
 * [Bayes 정리](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/bayes-c815-b9ac.md)
 * [우도](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/c6b0-b3c4.md)
-* [확률분포](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/%ED%99%95%EB%A5%A0%EB%B6%84%ED%8F%AC.md)
+* [확률분포](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/확률분포.md)
 * [확률 밀도 함수 추정](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/d655-b960-bc00-b3c4-d568-c218-cd94-c815.md)
 
+## 선형 대수
 
-## 선형 대수 
-
-- [Linear Algebra](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
+* [Linear Algebra](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
 * [ch00\_벡터](ch00bca1-d130.md)
 * [ch03\_기하와 벡터](ch03ae30-d558-d559.md)
-- _벡터와 행렬 연산 
-- _고유벡터 
-- _행렬의 분해 
+* \_벡터와 행렬 연산 
+* \_고유벡터 
+* \_행렬의 분해 
 
-# 최적화 
+---
 
 * [ch02\_미분과 적분](ch02bbf8-bd84.md)
 
-
-
-
 ## 강의
 
-* [KMOOC\_알고보면 쉬운 미적분이론 \(5%\)](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860.md)
+* [알고보면 쉬운 미적분이론 \(5%\)](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860.md)
   * [Week1\_실수란 무엇인가?](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860/week1c2e4-c218-b780-bb34-c5c7-c778-ac003f.md)
   * [Week2\_무한집합의 크기를 어떻게 비교 하는가?](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860/week2bb34-d55c-c9d1-d569-c758-d06c-ae30-b97c-c5b4-b5bb-ac8c-be44-ad50-d558-b294-ac003f.md)
   * [Week3\_위상의 기본적인 개념1](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860/week3c704-c0c1-c758-ae30-bcf8-c801-c778-ac1c-b150-1.md)
