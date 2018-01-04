@@ -5,6 +5,7 @@
 
 ## 수학 기초
 
+* [ch01\_지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
 
 
 
@@ -22,7 +23,6 @@
 
 - [Linear Algebra](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
 * [ch00\_벡터](ch00bca1-d130.md)
-* [ch01\_지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
 * [ch03\_기하와 벡터](ch03ae30-d558-d559.md)
 - _벡터와 행렬 연산 
 - _고유벡터 
