@@ -9,7 +9,7 @@
 
 ## 확률 통계
 
-- [Gitbook](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
+* [Gitbook](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
 
 ## 선형 대수
 
@@ -17,7 +17,7 @@
 * [ch00\_벡터](ch00bca1-d130.md)
 * [ch03\_기하와 벡터](ch03ae30-d558-d559.md)
 * \_벡터와 행렬 연산 
-* \_고유벡터 
+* [\_고유벡터 ](ace0-c720-bca1-d130.md)
 * \_행렬의 분해 
 
 ---
