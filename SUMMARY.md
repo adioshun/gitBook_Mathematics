@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [List\_of\_Mathematics](listof-mathematics.md)
-* [Geometry\_intro\(기하학\)](geometryintro.md)
 
 ## 수학 기초
 
