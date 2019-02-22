@@ -5,6 +5,8 @@
 
 ## 수학 기초
 
+* Function(함수)
+  * Exp-Log-Func(지수/로함수)
 * [ch01\_지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
 
 ## 확률 통계
