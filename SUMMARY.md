@@ -6,7 +6,7 @@
 ## 수학 기초
 
 * Function\(함수\)
-  * [Exp-Log-Func\(지수/로함수\)](exp-log-funcc9c0-c218-b85c-d568-c21829.md)
+  * Exp-Log-Func\(지수/로함수\)
 * [ch01\_지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
 
 ## 확률 통계
