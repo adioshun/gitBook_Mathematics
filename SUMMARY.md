@@ -22,13 +22,10 @@
 * [\_고유벡터 ](ace0-c720-bca1-d130.md)
 * \_행렬의 분해 
 
----
-
 ## Calculus
 
-* README
-* Derivative
-
+* [README](readme.md)
+* [Derivative](derivative.md)
 * [ch02\_미분과 적분](ch02bbf8-bd84.md)
 
 ## 강의
