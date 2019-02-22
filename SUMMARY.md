@@ -9,7 +9,9 @@
 * [Function\(함수\)](functiond568-c21829.md)
   * [Exp-Log-Func\(지수/로함수\)](functiond568-c21829/exp-log-funcc9c0-c218-b85c-d568-c21829.md)
 
-## [확률 통계-ext](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
+## [확률 통계-ext]
+
+* [깃북이동](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
 
 
 
