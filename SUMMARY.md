@@ -35,6 +35,15 @@
   * [Week3\_위상의 기본적인 개념1](kmoocc54c-ace0-bcf4-ba74-c26c-c6b4-bbf8-c801-bd84-c774-b860/week3c704-c0c1-c758-ae30-bcf8-c801-c778-ac1c-b150-1.md)
 
 
+## 베이지안
+
+* [Bayesian_Intro](bayesian/README.md)
+* [Bayesian statistic](bayesian/statistics.md)
+* [Bayesian Network](bayesian/network.md)
+
+
+
+
 
 ## 참고
 
