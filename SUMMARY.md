@@ -13,13 +13,6 @@
 
 * [깃북이동](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
 
-## 베이지안
-
-* [Bayesian\_Intro](bayesian/README.md)
-* [Bayesian statistic](bayesian/statistics.md)
-* [Bayesian Network](bayesian/network.md)
-
-
 
 ## 선형 대수
 
