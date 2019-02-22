@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [List\_of\_Mathematics](listof-mathematics.md)
+* [README](README.md)
+* [References](listof-mathematics.md)
 
 ## 수학 기초
 
