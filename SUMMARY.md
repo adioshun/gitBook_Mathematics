@@ -24,7 +24,6 @@
 
 ## Calculus
 
-* [README](readme.md)
 * [Derivative](derivative.md)
 * [ch02\_미분과 적분](ch02bbf8-bd84.md)
 
