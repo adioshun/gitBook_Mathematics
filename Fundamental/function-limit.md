@@ -27,5 +27,18 @@ $$ \lim_{x \to 0}\frac{\sin x}{x} = 1  $$
 ## 2. [지수/로그 함수의 극한](https://youtu.be/NNSu0I4WzFw?t=661)
 
 
+### 2.1 $$ \lim{n \to \infty} (1 + \frac{1}{n})^n = e = 2.182818 $$
 
-$$ \lim{x \to \infty} (1 + \frac{1}{n})^2 = e = 2.182818 $$
+![](https://i.imgur.com/rLLqhpK.png)
+
+활용 : $$ e^x , 미적분 할때 편리 $$
+
+
+
+> 자연 로그 : e^x의 역함수 = y = log _e^x = ln x 
+
+
+### 2.2 $$  \lim{x \to 0}\frac{e^x -1}{x} = \frac{1}{\log_e^e} =1    $$
+
+
+![](https://i.imgur.com/he3MF3d.png)
