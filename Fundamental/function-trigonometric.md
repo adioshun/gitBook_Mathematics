@@ -67,4 +67,34 @@
 
 ###### 예) 60진법 각과 호도법간의 변화 (일반각 = theta가 90도 미만 제약 없음)
 
-  
+![](https://i.imgur.com/gmleTBB.png)
+
+위 공식을 이용하여서 $$ \theta $$ 나 $$ -\theta$$ 여도 계산 가능 (예각 여부 상관 없이) 
+
+이때, x는 반지름(r), y= 호의 길이(l)로 보면 f(x)의 계산이 가능  
+
+---
+
+## 3. [삼각함수 관련 공식들 & 덧셈 공식](https://www.youtube.com/watch?v=o1cRDheoFCA)
+
+
+![](https://i.imgur.com/9Kyl1Y7.png)
+
+- 검은색 : 각도가 \theta
+ - 좌표는 (x,y)
+ - sin \theta = y/r
+ - cos \theta = x/4
+ - tan \theta = y/x
+- 파란색 : 180도에서 \theta 가 빠진 각 = \pi - \theta 
+ - 좌표는 (-x,y)
+ - sin (\pi - \theta) = y/r = sin \theta
+- 초록색 : 180도에서 \theta 만튼 더한 각 = \pi + \theta
+ - 좌표는 (-x, -y)
+ - sin (\pi + \theta) = - sin \theta
+ 
+ 
+
+
+
+
+
