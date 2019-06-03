@@ -1,0 +1,1 @@
+# [함수](https://www.youtube.com/watch?v=i1E6RQwDZSQ)

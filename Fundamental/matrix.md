@@ -1,4 +1,4 @@
-# 행렬 
+# [행렬 ](https://www.youtube.com/watch?v=ByEQnVpiOk8)
 
 정의 : 숫자를 직사각형으로 배열 한것 
 
