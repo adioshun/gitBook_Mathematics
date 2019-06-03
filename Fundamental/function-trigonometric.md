@@ -77,7 +77,7 @@
 
 ## 3. [삼각함수 관련 공식들 & 덧셈 공식](https://www.youtube.com/watch?v=o1cRDheoFCA)
 
-
+### 3.1 삼각 함수 공식 
 ![](https://i.imgur.com/9Kyl1Y7.png)
 
 - 검은색 : 각도가 \theta
@@ -95,6 +95,31 @@
  
 
 
+![](https://i.imgur.com/6IOfQ7w.png)
 
+
+- 검은색 : 기준 각도 \theta
+ - 좌표는 : (x,y)
+- 빨간색 : 기준각도 **더하기** 180도 = $$ \frac{\pi}{2} + \theta $$
+ - 좌표는 : (-y, x)
+ 
+
+
+### 3.2 덧셈 공식 
+
+> sin (a + b)를 어떻게 계산 할까? (단순한, sin a + sin b로 되지 않음 = 선형성이 아님)
+
+![](https://i.imgur.com/tl8ic1O.png)
+
+
+활용 방법 
+- 특수각이 아니어(75)도 특수각으로 만들(30+45)어서 표를 보고 답 구하기 
+ - sin 75도 = sin (30도 + 45도) 
+- **적분**에서 유용하게 사용 [[추후 설명]](https://youtu.be/o1cRDheoFCA?t=1320)
+ - cos^2 a는 바로 적분이 안됨, 그런데 덧셈공식으로 적분이 가능한 모양($$\frac{1+cos2a}{2}$$) 으로 변경 가능
+
+
+###### 덧셈 공식과 적분 
+![](https://i.imgur.com/4urOFrO.png)
 
 
