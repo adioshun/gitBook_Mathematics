@@ -12,6 +12,7 @@
 * [함수](Fundamental/function.md)
 * [함수-삼각함수](Fundamental/function-trigonometric.md)
 * [함수-지수로그함수](Fundamental/function-expo-log.md)
+* [function-limit](Fundamental/function-limit.md)
 
 ## \[확률 통계-ext\]
 
