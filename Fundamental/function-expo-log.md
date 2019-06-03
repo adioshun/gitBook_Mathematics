@@ -51,7 +51,7 @@
 ![](https://i.imgur.com/7B5AG6i.png)
 
 기준점 y = a^x에 대해서 
-- y = a^{-ax} 는 
+- y = a^{-ax} 는 x의 기호가 바뀌려면 y를 기준으로 대칭 해야 함 
 
 ---
 ## 2. [로그 ](https://www.youtube.com/watch?v=-lL3i7qGcbs)
