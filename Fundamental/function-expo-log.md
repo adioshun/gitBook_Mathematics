@@ -12,7 +12,7 @@
 - 거듭제곱($$a^n$$): 어떤 수 a를 n번 곱한것을 a의 n 제곱이라 함(a=밑=기저, n=지수)
 - 거듭제곱근($$x^n = a$$): n 제곱하여 실수 a가 되는 수 x를 a의 n 제곱근이라 한다. 
 
-### 1.1 법칙  
+### 1.2 법칙  
 
 
 #### A. [지수의 법](https://www.youtube.com/watch?time_continue=42&v=zsMTKe9f1bg)
