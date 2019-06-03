@@ -43,8 +43,12 @@
 
 삼각형의 각도를 비율로 나타내는것 
 
-![](https://i.imgur.com/SPuCd3B.png)
+|![](https://i.imgur.com/SPuCd3B.png)|![](https://i.imgur.com/14ils1b.png)|
+|-|-|
 
+- 한각의 sinA는 다른 각의 cosB이다. 
+- 한각의 tanB는 다른각의 1/tanB이다. (역수)
+- 각의 역수는 cosecA, secA등으로 정의 
 
 
 직각 삼각형
