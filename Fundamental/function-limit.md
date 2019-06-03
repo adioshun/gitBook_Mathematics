@@ -10,3 +10,20 @@
 
 우극한/좌극한에 따라 식이 다른 경우 
 ![](https://i.imgur.com/1WRN0SH.png)
+
+
+## 1. [삼각 함수의 극한](https://www.youtube.com/watch?v=NNSu0I4WzFw)
+
+
+$$ \lim_{x \to 0}\frac{\sin x}{x} = 1  $$
+
+의미 
+- x는 아주 작을값일때 $$\frac{\sin x}{x}$$는 1과 같다. 즉, sin x = x 와 같다. 
+
+
+
+
+
+
+
+## 2. [지수/로그 함수의 극한]()
