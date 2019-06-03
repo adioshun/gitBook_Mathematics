@@ -10,6 +10,7 @@
 * [지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
 * [Function\(함수\)](functiond568-c21829.md)
   * [Exp-Log-Func\(지수/로함수\)](functiond568-c21829/exp-log-funcc9c0-c218-b85c-d568-c21829.md)
+* [README](Fundamental/readme.md)
 
 ## \[확률 통계-ext\]
 
