@@ -1,5 +1,6 @@
 # 지수 로그 함수 극한 
 
+> 지수 함수 : y = f(x) = a^x 
 
 ## 1. 지수 법칙 
 
@@ -45,18 +46,28 @@
 - $$ \sqrt[m]{\sqrt[n](a)} = \sqrt[mn]{a}$$
 
 
+### 1.3 [지수 함수와 그래프 ](https://youtu.be/zsMTKe9f1bg?t=1535)
+
+![](https://i.imgur.com/7B5AG6i.png)
+
+기준점 y = a^x에 대해서 
+- y = a^{-ax} 는 
 
 ---
-## 2. 로그 
+## 2. [로그 ](https://www.youtube.com/watch?v=-lL3i7qGcbs)
 
 ### 2.1 로그의 정의 
-- 지수 함수의 역함수 = $$a^x = y에서 (x \leftrightarrow y)하면  \log_ay = x$$ (a의 x승은 y)
-
-- 지수만을 떼어내서 복잡한 셈을 간단히 하는것 
 
 $$a^x = b \rightarrow x = \log_a b$$
 - a를 밑으로 하는 b의 로그 
 - b를 $$\log_a{b}진수라 한다.  $$
+- 밑(a)을 몇 제곱(x)해야 진수(b)가 되는가? 
+- 지수함수의 지수를 기준으로 팀과 진수로 설명 하는것 
+- 지수 함수의 역함수 = $$a^x = y에서 (x \leftrightarrow y)하면  \log_ay = x$$ (a의 x승은 y)
+- 지수만을 떼어내서 복잡한 셈을 간단히 하는것 
+
+
+
 
 
 
@@ -122,7 +133,7 @@ $$a^x = b \rightarrow x = \log_a b$$
 
 
 
-
+![](https://i.imgur.com/JlUtK68.png)
 
 
 
