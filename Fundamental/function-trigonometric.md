@@ -1,7 +1,7 @@
-# [삼각 함수 ](https://www.youtube.com/watch?v=EnZbFxXkxn8)
+# 삼각 함수
 
+## [1. 호도법 ](https://www.youtube.com/watch?v=EnZbFxXkxn8)
 
-## 1. 호도법 
 
 
 
@@ -41,4 +41,13 @@
 ## 2. [삼각 함수](https://www.youtube.com/watch?time_continue=1&v=scqdoB1kl3g)
 
 
+삼각형의 각도를 비율로 나타내는것 
+
+![](https://i.imgur.com/SPuCd3B.png)
+
+
+
+직각 삼각형
+- 피타고라스 정리 $$ c^2 = a^2 + b^2  $$
+- sin^2 + cos^2 A 는 항상 1이다. 
 
