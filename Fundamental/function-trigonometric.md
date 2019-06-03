@@ -59,4 +59,4 @@
 
 ![](https://i.imgur.com/5iRgzGf.png)
 
-
+sin30도는 빗변(2)분의 높이(1)이므로 1/2.
