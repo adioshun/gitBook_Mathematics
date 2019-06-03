@@ -25,7 +25,7 @@
 
 ##### 부채꼴의 넒이는 
 
-- 전체원 S = \pi x r^2
+- 전체원 S = $$ \pi r^2 $$
 - 부채꼴 원 s = 원(S)에서 각도 \theta 비율 = S x ( $$\frac {\theta 도}{360도} = \pi r^2 \cdot \frac{l /r }{2 \pi} = r^2 \cdot \frac{1}{2} \cdot \frac{l}{r} = 1/2 rl$$
 
 
