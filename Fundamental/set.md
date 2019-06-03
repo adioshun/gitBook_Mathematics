@@ -5,7 +5,7 @@
 
 - 조건 제시법 : A = {x | x는 5이하의 자연수) 
 
-## 1. 수의 체계 
+## [1. 수의 체계 ](https://youtu.be/x1Wc8Im3D0g)
 
 |핵심 |$$ N \subset Z \subset Q \subset R   $$|
 |-|-|
