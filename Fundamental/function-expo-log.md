@@ -1,20 +1,21 @@
-# 지수와 로그
+# 지수 로그 함수 극한 
+
+
+## 1. 지수 법칙 
 
 ![](http://i.imgur.com/TG4PFRx.png)
 
 > [로그의정의와공식증명](https://www.youtube.com/watch?v=aJ7j4QhAzk8)
-
-## 1. 지수 
 
 ### 1.1 정의
 
 - 거듭제곱($$a^n$$): 어떤 수 a를 n번 곱한것을 a의 n 제곱이라 함(a=밑=기저, n=지수)
 - 거듭제곱근($$x^n = a$$): n 제곱하여 실수 a가 되는 수 x를 a의 n 제곱근이라 한다. 
 
-### 2.1 성질 
+### 1.1 법칙  
 
 
-#### A. 지수의 성질
+#### A. [지수의 법](https://www.youtube.com/watch?time_continue=42&v=zsMTKe9f1bg)
 - $$a^ma^n = a^{m+n}$$
 
 - $$(a^m)^n = a^{mn}$$
@@ -23,14 +24,17 @@
 
 - $$(\frac{a}{n})^n = \frac{a^n}{b^n}$$
 
-- $$\frac{a^m}{a^n} = a^{m-n} (m>n), 1 (m=n), \frac{1}{a^{n-m}} (m<n) $$  
+- $$ a^m \% a^n =  \frac{a^m}{a^n} $$
+    - $$ a^{m-n} (m>n) $$
+    - $$ 1 (m=n)  = \frac{a^m}{a^n} = 1 = a^{m-n} = a^0$$ 
+    - $$ \frac{1}{a^{n-m}} (m < n) $$  
 
 - $$a^0 = 1$$
 
 - $$a^{-n} = \frac{1}{a^n}$$
 
 
-#### B. 거듭 제곱근의 성질
+#### B. 거듭 제곱근의 법칙 
 
 - $$\sqrt[n]{a} \cdot \sqrt[n]{b} = \sqrt[n]{ab} $$
 

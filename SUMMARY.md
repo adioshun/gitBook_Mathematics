@@ -11,7 +11,7 @@
 * [행렬](Fundamental/matrix.md)
 * [함수](Fundamental/function.md)
 * [함수-삼각함수](Fundamental/function-trigonometric.md)
-* [지수와로그](ch01c9c0-c218-c640-b85c-adf8.md)
+* [function-expo-log](Fundamental/function-expo-log.md)
 
 ## \[확률 통계-ext\]
 
