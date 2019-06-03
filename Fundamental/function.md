@@ -40,8 +40,11 @@
 
 - 합성함수시 순서가 중요 한데, 순서를 바꾸어도 같은것 : $$ g \cdot f = f \cdot g = I -> g = f^{-1} $$
 
-- f(x) -> (g \cdot h)*(x) = x
+- f(x) -> (g $$\cdot$$ h)*(x) = x  
 
+![](https://i.imgur.com/5yFGe3k.png)
+
+역함수는 결국 x<-y가 바뀐것. 즉, 그래프에서 y=x의 대칭 값 
 
 ---
 
