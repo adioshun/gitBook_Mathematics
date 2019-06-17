@@ -2,6 +2,12 @@
 
 * [README](README.md)
 * [References](listof-mathematics.md)
+* [확률통계](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
+* [선형대](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
+
+
+
+
 
 ## 수학 기초
 
@@ -14,13 +20,6 @@
 * [함수-지수로그함수](Fundamental/function-expo-log.md)
 * [함수-극한](Fundamental/function-limit.md)
 
-## \[확률 통계-ext\]
-
-* [깃북이동](https://www.gitbook.com/book/adioshun/statics-with-r/edit#/edit/master/README.md)
-
-## 선형 대수
-
-* [Gitbook](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
 
 ## 미분적분
 
