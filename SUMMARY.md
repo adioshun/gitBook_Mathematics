@@ -23,9 +23,6 @@
 * [Gitbook](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
 * [ch00\_벡터](ch00bca1-d130.md)
 * [ch03\_기하와 벡터](ch03ae30-d558-d559.md)
-* [\_벡터와 행렬 연산 ](bca1-d130-c640-d589-b82c-c5f0-c0b0.md)
-* [\_고유벡터 ](ace0-c720-bca1-d130.md)
-* [\_행렬의 분해 ](d589-b82c-c758-bd84-d574.md)
 
 ## 미분적분
 
