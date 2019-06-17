@@ -21,7 +21,6 @@
 ## 선형 대수
 
 * [Gitbook](https://www.gitbook.com/book/adioshun/linear-algebra/edit#/edit/master/README.md)
-* [ch03\_기하와 벡터](ch03ae30-d558-d559.md)
 
 ## 미분적분
 
